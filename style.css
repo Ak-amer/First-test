@@ -1,3 +1,9 @@
 body {
     background-color: red;
+    /*please add margin and padding in this section*/
 }
+myBox{
+    border-radius: 3px;
+    padding-left: 10px;
+}
+
