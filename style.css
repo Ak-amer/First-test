@@ -2,8 +2,42 @@ body {
     background-color: red;
     /*please add margin and padding in this section*/
 }
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: yellow;
+}
+
 myBox{
     border-radius: 3px;
     padding-left: 10px;
+}
+
+.text {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 30px;
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+    color: yellow;
 }
 
