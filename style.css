@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: rgb(255, 0, 0, 0.5);
     /*please add margin and padding in this section*/
     text-align: right;
 }
@@ -11,7 +11,6 @@ body {
     text-align: right;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    border: 5px solid white;
     padding: 10px 15px;
     margin: 20px 30px;
 }
@@ -31,13 +30,9 @@ p {
     color: yellow;
 }
 
-myBox{
-    border-radius: 3px;
-    padding-left: 10px;
-}
 
 .text {
-    color: white;
+    color: darkgreen;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     font-style: italic;
