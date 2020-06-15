@@ -40,6 +40,10 @@ p {
     text-align: center;
 }
 
+span {
+    font-size: 3em;
+}
+
 img {
     float: left;
 }
